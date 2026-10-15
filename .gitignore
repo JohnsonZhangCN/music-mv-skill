@@ -1,0 +1,14 @@
+node_modules/
+__pycache__/
+*.pyc
+.cache/
+.deps/
+.venv/
+test-tmp/
+outputs/
+*.mp3
+*.m4a
+*.wav
+*.lrc
+*.mp4
+*.zip
