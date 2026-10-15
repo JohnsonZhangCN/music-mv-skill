@@ -1,0 +1,10 @@
+{
+  "image": "D:/mv/character.png",
+  "audio": "D:/mv/song.mp3",
+  "lyrics": "D:/mv/song.lrc",
+  "start": "00:39",
+  "end": "01:07",
+  "style": "水彩墨线、甜蜜小镇",
+  "role_mode": "both",
+  "output": "D:/mv/outputs/music-mv/first-mv"
+}
